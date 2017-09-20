@@ -9,7 +9,7 @@ Table of Contents
 - [Purpose](#purpose)
 - [Browser Support](#browser-support)
 - [Release on Test](#release-on-test)
-	- [General checks](#general-checks)    
+	- [General checks](#general-checks)
    - [Release PR Testing](#release-pr-testing)
    -  [Manual Checks](#manual-checks)
    		- [General Functionality](#general-functionality)
@@ -28,7 +28,7 @@ Table of Contents
        - [CPS Preview](#cps-preview)
 
 - [Release on Stage](#release-on-stage)
-	- [General checks](#general-checks)    
+	- [General checks](#general-checks)
    -  [Manual Checks](#manual-checks)
    		- [General Functionality](#general-functionality)
        - [AV Page](#av-page)
@@ -37,12 +37,12 @@ Table of Contents
        - [Sanity Check Sites](#sanity-check-sites)
 
 - [Release on Live](#release-on-live)
-	- [General checks](#general-checks)    
+	- [General checks](#general-checks)
    -  [Manual Checks](#manual-checks)
        - [Sanity Check Sites](#sanity-check-sites)
        - [Check CPS preview for MAPs not retuning 404s](check-cps-preview-for-maps-not-returning-404s)
        - [CPS Preview](cps-preview)
-       
+
 
 Purpose
 -------
@@ -101,10 +101,10 @@ Release on Test
         [   http://www.test.bbc.co.uk/news/special_reports](http://www.stage.bbc.co.uk/news/special_reports)\
          [  http://www.test.bbc.co.uk/news/in_pictures](http://www.stage.bbc.co.uk/news/in_pictures)\
          [  http://www.test.bbc.co.uk/news/explainers](http://www.stage.bbc.co.uk/news/explainers)
-    -   Check all blogs (QBR,the papers etc) are working as expected -  <http://www.test.bbc.co.uk/news/blogs/the_papers?_x_candy_override=https://api.test.bbc.co.uk> 
+    -   Check all blogs (QBR,the papers etc) are working as expected -  <http://www.test.bbc.co.uk/news/blogs/the_papers?_x_candy_override=https://api.test.bbc.co.uk>
     -   Check correspondent pages(Index and articles) are working as expected -  [http://www.test.bbc.co.uk/news/correspondents/rorycellanjones](http://www.stage.bbc.co.uk/news/correspondents/rorycellanjones) & [http://www.test.bbc.co.uk/news/technology-35863859](http://www.stage.bbc.co.uk/news/technology-35863859)
     -   Check that weather works as expected - [http://www.test.bbc.co.uk/news](http://www.stage.bbc.co.uk/news)
-    -   Check local indexes look ok - [http://www.test.bbc.co.uk/news/england/birmingham_and_black_country](http://www.stage.bbc.co.uk/news/england/birmingham_and_black_country) 
+    -   Check local indexes look ok - [http://www.test.bbc.co.uk/news/england/birmingham_and_black_country](http://www.stage.bbc.co.uk/news/england/birmingham_and_black_country)
     -   Disable JS and check that the site is rendered without issues.
     -   Check share tools work as expected
 
@@ -135,7 +135,7 @@ Release on Test
 -    ORB Header and Footer links
 
     -   <http://www.test.bbc.com/arabic>
-    -   Check for localised labels 
+    -   Check for localised labels
     -   Link to BBC Id Sign In lands on page - <https://ssl.test.bbc.com/id/ar-SA/signin?ptrt=http%3A%2F%2Fwww.test.bbc.com%2Farabic%2Fsearch%2F%3Fq%3Dtest>
     -   Test interactions with links
 
@@ -145,10 +145,10 @@ Release on Test
     -   Test interactions search box
     -   Test interactions with search results page
 
--   Topic pages 
+-   Topic pages
 
-    -   <http://www.test.bbc.com/gahuza/topics/ba90754a-9033-4e9c-990b-d1139e5070a3> 
-    -   <http://www.test.bbc.com/gahuza/topics/e68c5b82-50e8-47d8-953c-bf61a2de0a85> 
+    -   <http://www.test.bbc.com/gahuza/topics/ba90754a-9033-4e9c-990b-d1139e5070a3>
+    -   <http://www.test.bbc.com/gahuza/topics/e68c5b82-50e8-47d8-953c-bf61a2de0a85>
 
 -   RSS Feeds
 
@@ -161,8 +161,8 @@ Release on Test
 -   Contact Us Form
 
     -   <http://www.test.bbc.com/urdu/institutional/2011/10/000001_contact_us>
-    -   Check for localisation 
-    -   Successful submission page 
+    -   Check for localisation
+    -   Successful submission page
     -   Mandatory field form errors
 
 -   New Picture Gallery
@@ -181,7 +181,7 @@ Release on Test
 
     -   <http://www.test.bbc.co.uk/ws/languages>
 
-    -   Check all live sites are listed on this page and check a couple of click throughs to site homepage 
+    -   Check all live sites are listed on this page and check a couple of click throughs to site homepage
 
 -   Sitemaps
 
@@ -214,7 +214,7 @@ Release on Test
         | Sinhala | Iskoola Pota BBC, SetDeco
         | Tamil   | Latha
         | Urdu    | BBCNaseem
-            
+
 -   CPS Preview
 
     -   Open CPS test
@@ -258,7 +258,7 @@ Release on Stage
     -   Check if there are any JS errors on the page - <http://www.stage.bbc.co.uk/news>
     -   Check adverts are only displayed on the international page - [http://www.stage.bbc.com/news](http://www.stage.bbc.co.uk/news)
     -   Check that weather works as expected - <http://www.stage.bbc.co.uk/news>
-    -   Check local indexes look ok - <http://www.stage.bbc.co.uk/news/england/birmingham_and_black_country> 
+    -   Check local indexes look ok - <http://www.stage.bbc.co.uk/news/england/birmingham_and_black_country>
     -   Disable JS and check that the site is rendered without issues.
     -   Check share tools work as expected.
 
@@ -284,7 +284,7 @@ Release on Stage
     -   <http://www.stage.bbc.com/arabic>
     -   <http://www.stage.bbc.com/russian>
     -   <http://www.stage.bbc.com/mundo>
-    -   Homepage 
+    -   Homepage
     -   Indexes and Assets
     -   Audio and Video Playback
     -   Forms
@@ -317,7 +317,7 @@ Release on Live
    - <http://www.bbc.com/arabic>
    - <http://www.bbc.com/russian>
    - <http://www.bbc.com/mundo>
-   -   Homepage 
+   -   Homepage
    -   Indexes and Assets
    -   Audio and Video Playback
    -   Forms
@@ -327,10 +327,10 @@ Release on Live
     -   Example urls - <https://preview.api.bbc.co.uk/previewPal/10462520>
     -   <https://preview.api.bbc.co.uk/previewPal/41011888>
 
--   CPS Preview  
+-   CPS Preview
     -   Open CPS Live
     -   Go to front page and click on a MAP page
     -   Click on Preview and the page should be rendered without any errors.Clicking on Preview will open preview in CPS itself
     -   There is also an option to Preview in Browser which will open preview in a browser,make sure that works too.
-    
+
 

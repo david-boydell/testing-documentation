@@ -1,4 +1,3 @@
-## Testing Documentation
 ---
 layout: page
 title: Testing Documentation
