@@ -1,4 +1,5 @@
 ---
+layout: page
 title: PAL Regression testing Plan
 ---
 
