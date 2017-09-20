@@ -91,6 +91,7 @@ Release on Test
 #### Manual Checks
 
 -    General Functionality
+    
     -   Check that the site is rendered without any issues - <http://www.test.bbc.co.uk/news>
     -   Check that there are no 500 errors.This can be done by opening firebug>console tab - <http://www.test.bbc.co.uk/news>
     -   Check if there are any JS errors on the page - <http://www.test.bbc.co.uk/news>
@@ -108,6 +109,7 @@ Release on Test
     -   Check share tools work as expected
 
 -    AV Page
+
     -   Check that the video plays properly - <http://www.test.bbc.co.uk/news/world-europe-35881935>
     -   Check that <http://www.test.bbc.co.uk/news/video_and_audio> is not blank and no 500 errors displayed in the console.
     -   Check that the Related, Most Watched and Top Stories tabs are rendered with data and quick regression around the tabs.
@@ -121,7 +123,6 @@ Release on Test
     -   Live Nitro Radio -  <http://www.test.bbc.com/arabic/bbc_arabic_radio/liveradio>
     -   Nitro Radio Bulletin - <http://www.test.bbc.com/arabic/bbc_arabic_radio/liveradio> (Click a bulletin on the left of the page)
     -   MPS Story Page with with embedded video - <http://www.test.bbc.com/mundo/noticias/2016/03/160313_turquia_explosion_ankara_muertos_ilm>
-
     -   Check duration labels render on playable media assets on page
 
 -   Live Event Component
