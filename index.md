@@ -1,6 +1,12 @@
-## Testing Documentation ##
+## Testing Documentation
+---
+layout: page
+title: Testing Documentation
+---
 
-This is a place to store testing documentation.
+## Purpose
+
+This is a place to store testing documentation which can easily be accessed across browsers and devices.
 
 ### Contents ####
 
