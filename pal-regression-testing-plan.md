@@ -6,20 +6,20 @@ title: PAL Regression testing Plan
 Table of Contents
 -------
 
-- [Purpose](#purpose)
-- [Browser Support](#browser-support)
-- [Release on Test](#release-on-test)
-   - [General checks](#general-checks-on-test)
-   - [Release PR Testing](#release-pr-testing)
-   -  [Manual Checks](#manual-checks-on-test)
+-   [Purpose](#purpose)
+-   [Browser Support](#browser-support)
+-   [Release on Test](#release-on-test)
+    -   [General checks](#general-checks-on-test)
+    -   [Release PR Testing](#release-pr-testing)
+    -   [Manual Checks](#manual-checks-on-test)
 
-- [Release on Stage](#release-on-stage)
-	- [General Checks](#general-checks-on-stage)
-   -  [Manual Checks](#manual-checks-on-stage)
+-   [Release on Stage](#release-on-stage)
+    -   [General Checks](#general-checks-on-stage)
+    -   [Manual Checks](#manual-checks-on-stage)
 
-- [Release on Live](#release-on-live)
-	- [General Checks](#general-checks-on-live)
-   -  [Manual Checks](#manual-checks-on-live)
+-   [Release on Live](#release-on-live)
+    -   [General Checks](#general-checks-on-live)
+    -   [Manual Checks](#manual-checks-on-live)
 
 
 Purpose
@@ -68,7 +68,7 @@ Release on Test
 
 #### Manual checks on test
 
--    General Functionality
+-   General Functionality
 
     -   Check that the site is rendered without any issues - <http://www.test.bbc.co.uk/news>
     -   Check that there are no 500 errors.This can be done by opening firebug>console tab - <http://www.test.bbc.co.uk/news>
@@ -86,7 +86,7 @@ Release on Test
     -   Disable JS and check that the site is rendered without issues.
     -   Check share tools work as expected
 
--    AV Page
+-   AV Page
 
     -   Check that the video plays properly - <http://www.test.bbc.co.uk/news/world-europe-35881935>
     -   Check that <http://www.test.bbc.co.uk/news/video_and_audio> is not blank and no 500 errors displayed in the console.
@@ -105,11 +105,11 @@ Release on Test
 
 -   Live Event Component
 
-    -   Check that the Live Event component is working as expected (Comments coming through and they are updated based on the latest time) - Live event av avilable on any index when the release is done[ ](http://www.stage.bbc.co.uk/news/live/world-europe-35869266)
+    -   Check that the Live Event component is working as expected (Comments coming through and they are updated based on the latest time) - Live event av avilable on any index when the release is done[](http://www.stage.bbc.co.uk/news/live/world-europe-35869266)
 
     -   Check that the Live Event Component is not blank - <http://www.test.bbc.co.uk/news/live/world-europe-35869266> - if it is blank check this <http://pal.test.bbc.co.uk/news/live/23040381?_x_candy_override=https://api.test.bbc.co.uk>
 
--    ORB Header and Footer links
+-   ORB Header and Footer links
 
     -   <http://www.test.bbc.com/arabic>
     -   Check for localised labels
@@ -179,10 +179,10 @@ Release on Test
     -   Enable JS on browser and refresh page
     -   Check font-family for bbc.font Key Value
 
-        |Site     |Font           |
+        | Site    | Font           |
         | --------|:-------------------------:|
-        | Arabic  | BBCNaseem				      |
-        | Bengali | Shonar Bangla	             |
+        | Arabic  | BBCNaseem                     |
+        | Bengali | Shonar Bangla                |
         | Burmese | Padauk                    |
         | Hindi   | mangal
         | Nepali  | mangal
@@ -248,7 +248,7 @@ Release on Stage
 
 -   Live event Component
 
-    -   Check that the Live Event component is working as expected (Comments coming through and they are updated based on the latest time) - Live event  available on any index when the release is done[ ](http://www.stage.bbc.co.uk/news/live/world-europe-35869266)
+    -   Check that the Live Event component is working as expected (Comments coming through and they are updated based on the latest time) - Live event  available on any index when the release is done[](http://www.stage.bbc.co.uk/news/live/world-europe-35869266)
     -   Check that the Live Event Component is not blank - <http://www.stage.bbc.co.uk/news/live/world-europe-35869266>
     -   <http://www.stage.bbc.com/urdu/world/2016/04/160404_panama_tax_leaks_rh>
 
@@ -290,14 +290,14 @@ Release on Live
 
 -   Sanity Check Sites
 
-	- <http://www.bbc.co.uk/news>
-   - <http://www.bbc.com/arabic>
-   - <http://www.bbc.com/russian>
-   - <http://www.bbc.com/mundo>
-   -   Homepage
-   -   Indexes and Assets
-   -   Audio and Video Playback
-   -   Forms
+    -   <http://www.bbc.co.uk/news>
+    -   <http://www.bbc.com/arabic>
+    -   <http://www.bbc.com/russian>
+    -   <http://www.bbc.com/mundo>
+        -   Homepage
+        -   Indexes and Assets
+        -   Audio and Video Playback
+        -   Forms
 
 -   Check CPS preview for MAPs not retuning 404s
 
@@ -309,5 +309,3 @@ Release on Live
     -   Go to front page and click on a MAP page
     -   Click on Preview and the page should be rendered without any errors.Clicking on Preview will open preview in CPS itself
     -   There is also an option to Preview in Browser which will open preview in a browser,make sure that works too.
-
-
