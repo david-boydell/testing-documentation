@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PAL Regression testing Plan
+title: PAL Regression Testing Plan
 ---
 
 Table of Contents
