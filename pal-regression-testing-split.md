@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PAL Regression Testing Plan
+title: PAL Regression Testing Split
 ---
 
 TEST
@@ -63,4 +63,3 @@ LIVE
     -   Sanity Check Sites
     -   CPS Preview for MAPs not returning 404s
     -   CPS Preview
-      
