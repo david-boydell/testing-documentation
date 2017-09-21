@@ -32,6 +32,11 @@ Browser Support
 
 Regression testing across browsers should be performed based on the [latest stats for News & World Service](https://confluence.dev.bbc.co.uk/display/news/Supported+Browser+Versions)
 
+Based on the stats regression testing will cover the top 3 most popular mobile and desktop browser:
+
+**Mobile:** Opera Mini, Chrome on Android, Safari on iOS
+**Desktop:** Chrome, Firefox, IE11
+
 Release on Test
 ---------------
 
