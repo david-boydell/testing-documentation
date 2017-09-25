@@ -168,8 +168,8 @@ Release on Test
 -   Sitemaps
 
     -   <http://www.bbc.com/mundo/sitemap.xml>
-    -   [http://www.bbc.com/arabic/sitemap.xml](http://www.bbc.com/mundo/sitemap.xml)
-    -   [http://www.bbc.com/russian/sitemap.xml](http://www.bbc.com/mundo/sitemap.xml)
+    -   <http://www.bbc.com/arabic/sitemap.xml>
+    -   <http://www.bbc.com/russian/sitemap.xml>
     -   Check these render ok and are not broken
 
 -   Fonts
@@ -238,7 +238,7 @@ Release on Stage
     -   Check that the site is rendered without any issues - <http://www.stage.bbc.co.uk/news>
     -   Check that there are no 500 errors.This can be done by opening firebug>console tab - <http://www.stage.bbc.co.uk/news>
     -   Check if there are any JS errors on the page - <http://www.stage.bbc.co.uk/news>
-    -   Check adverts are only displayed on the international page - [http://www.stage.bbc.com/news](http://www.stage.bbc.co.uk/news)
+    -   Check adverts are only displayed on the international page - <http://www.stage.bbc.com/news>
     -   Check that weather works as expected - <http://www.stage.bbc.co.uk/news>
     -   Check local indexes look ok - <http://www.stage.bbc.co.uk/news/england/birmingham_and_black_country>
     -   Disable JS and check that the site is rendered without issues.
@@ -247,7 +247,7 @@ Release on Stage
 -   AV Page
 
     -   Check that the video plays properly - <http://www.stage.bbc.co.uk/news/world-europe-35881935>
-    -   Check that [http://www.stage.bbc.co.uk/news/video_and_audio](http://m.stage.bbc.co.uk/news/video_and_audio) is not blank and no 500 errors displayed in the console.
+    -   Check that <http://www.stage.bbc.co.uk/news/video_and_audio]> is not blank and no 500 errors displayed in the console.
     -   Check that the Related,Most Watched and Top Stories tabs are rendered with data and quick regression around the tabs.
     -   Check that stats are working.
 
@@ -262,7 +262,7 @@ Release on Stage
 
 -   Sanity Check Sites
 
-    -   [http://www.stage.bbc.co.uk/news](http://www.stage.bbc.com/arabic)
+    -   <http://www.stage.bbc.co.uk/news>
     -   <http://www.stage.bbc.com/arabic>
     -   <http://www.stage.bbc.com/russian>
     -   <http://www.stage.bbc.com/mundo>
