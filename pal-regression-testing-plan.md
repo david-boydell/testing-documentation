@@ -134,7 +134,8 @@ Release on Test
 
 -   RSS Feeds
 
-    -   On [http://www.](http://www.bbc.com/kyrgyz)[test.bbc.com/kyrgyz](http://test.bbc.com/kyrgyz), click through on RSS icon to <http://feeds.bbci.co.uk/kyrgyz/rss.xml>
+    -   On <http://www.test.bbc.com/kyrgyz>,
+    -   click through on RSS icon to <http://feeds.bbci.co.uk/kyrgyz/rss.xml>
     -   <https://broker.karanga.test.cloud.bbc.co.uk/persian/rss.xml>
     -   <https://broker.karanga.test.cloud.bbc.co.uk/persian/fullrss.xml>
     -   <http://feeds.bbci.co.uk/japanese/fullrss.xml>
