@@ -185,18 +185,18 @@ Release on Test
     -   Enable JS on browser and refresh page
     -   Check font-family for bbc.font Key Value
 
-        | Site    | Font           |
-        | --------|:-------------------------:|
-        | Arabic  | BBCNaseem                     |
-        | Bengali | Shonar Bangla                |
-        | Burmese | Padauk                    |
-        | Hindi   | mangal
-        | Nepali  | mangal
-        | Pashto  | BBCNaseem
-        | Persian | BBCNaseem
-        | Sinhala | Iskoola Pota BBC, SetDeco
-        | Tamil   | Latha
-        | Urdu    | BBCNaseem
+        | Site                                  | Font                      |
+        | --------------------------------------|:-------------------------:|
+        | [Arabic](www.test.bbc.co.uk/arabic)   | BBCNaseem                 |
+        | [Bengali](www.test.bbc.co.uk/bengali) | Shonar Bangla             |
+        | [Burmese](www.test.bbc.co.uk/burmese) | Padauk                    |
+        | [Hindi](www.test.bbc.co.uk/hindi)     | mangal                    |
+        | [Nepali](www.test.bbc.co.uk/nepali)   | mangal                    |
+        | [Pashto](www.test.bbc.co.uk/pashto)   | BBCNaseem                 |
+        | [Persian](www.test.bbc.co.uk/persian) | BBCNaseem                 |
+        | [Sinhala](www.test.bbc.co.uk/sinhala) | Iskoola Pota BBC, SetDeco |
+        | [Tamil](www.test.bbc.co.uk/tamil)     | Latha                     |
+        | [Urdu](www.test.bbc.co.uk/urdu)       | BBCNaseem                 |
 
 -   CPS Preview
 
