@@ -110,9 +110,7 @@ Release on Test
 
 -   Live Event Component
 
-    -   Check that the Live Event component is working as expected (Comments coming through and they are updated based on the latest time) - Live event av avilable on any index when the release is done[](http://www.stage.bbc.co.uk/news/live/world-europe-35869266)
-
-    -   Check that the Live Event Component is not blank - <http://www.test.bbc.co.uk/news/live/world-europe-35869266> - if it is blank check this <http://pal.test.bbc.co.uk/news/live/23040381?_x_candy_override=https://api.test.bbc.co.uk>
+    -   Check that the Live Event Component is not blank - <http://www.test.bbc.co.uk/news/live/world-europe-35869266> 
 
 -   ORB Header and Footer links
 
@@ -251,12 +249,6 @@ Release on Stage
     -   Check that <http://www.stage.bbc.co.uk/news/video_and_audio]> is not blank and no 500 errors displayed in the console.
     -   Check that the Related,Most Watched and Top Stories tabs are rendered with data and quick regression around the tabs.
     -   Check that stats are working.
-
--   Live event Component
-
-    -   Check that the Live Event component is working as expected (Comments coming through and they are updated based on the latest time) - Live event  available on any index when the release is done[](http://www.stage.bbc.co.uk/news/live/world-europe-35869266)
-    -   Check that the Live Event Component is not blank - <http://www.stage.bbc.co.uk/news/live/world-europe-35869266>
-    -   <http://www.stage.bbc.com/urdu/world/2016/04/160404_panama_tax_leaks_rh>
 
 -   RSS Feeds
     -   <http://feeds.stage.bbci.co.uk/persian/rss.xml>

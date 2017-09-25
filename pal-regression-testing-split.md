@@ -47,7 +47,6 @@ STAGE
     -   AV Page
 
 -   Functionality Set B:
-    -   Live Event Component
     -   RSS Feeds
     -   Sanity Check Sites
 
