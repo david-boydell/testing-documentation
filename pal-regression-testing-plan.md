@@ -94,7 +94,7 @@ Release on Test
 -   AV Page
 
     -   Check that the video plays properly - <http://www.test.bbc.co.uk/news/world-europe-35881935>
-    -   Check that <http://www.test.bbc.co.uk/news/video_and_audio> is not blank and no 500 errors displayed in the console.
+    -   Check that <http://www.test.bbc.co.uk/news/video_and_audio/headlines> is not blank and no 500 errors displayed in the console.
     -   Check that the Related, Most Watched and Top Stories tabs are rendered with data and quick regression around the tabs.
     -   Check that stats are working.
     -   Audio MAP - <http://www.test.bbc.com/persian/tv-and-radio-39252530>
@@ -110,7 +110,7 @@ Release on Test
 
 -   Live Event Component
 
-    -   Check that the Live Event Component is not blank - <http://www.test.bbc.co.uk/news/live/world-europe-35869266> 
+    -   Check that the Live Event Component is not blank - <http://www.test.bbc.co.uk/news/live/world-europe-35869266>
 
 -   ORB Header and Footer links
 
@@ -246,7 +246,7 @@ Release on Stage
 -   AV Page
 
     -   Check that the video plays properly - <http://www.stage.bbc.co.uk/news/world-europe-35881935>
-    -   Check that <http://www.stage.bbc.co.uk/news/video_and_audio]> is not blank and no 500 errors displayed in the console.
+    -   Check that <http://www.stage.bbc.co.uk/news/video_and_audio/headlines> is not blank and no 500 errors displayed in the console.
     -   Check that the Related,Most Watched and Top Stories tabs are rendered with data and quick regression around the tabs.
     -   Check that stats are working.
 
