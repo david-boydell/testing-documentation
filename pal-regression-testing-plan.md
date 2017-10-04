@@ -185,16 +185,16 @@ Release on Test
 
         | Site                                  | Font                      |
         | --------------------------------------|:-------------------------:|
-        | [Arabic](http://www.test.bbc.co.uk/arabic)   | BBCNaseem                 |
+        | [Arabic](http://www.test.bbc.co.uk/arabic)   | BBCNassim                 |
         | [Bengali](http://www.test.bbc.co.uk/bengali) | Shonar Bangla             |
         | [Burmese](http://www.test.bbc.co.uk/burmese) | Padauk                    |
         | [Hindi](http://www.test.bbc.co.uk/hindi)     | mangal                    |
         | [Nepali](http://www.test.bbc.co.uk/nepali)   | mangal                    |
-        | [Pashto](http://www.test.bbc.co.uk/pashto)   | BBCNaseem                 |
-        | [Persian](http://www.test.bbc.co.uk/persian) | BBCNaseem                 |
+        | [Pashto](http://www.test.bbc.co.uk/pashto)   | BBCNassim                 |
+        | [Persian](http://www.test.bbc.co.uk/persian) | BBCNassim                 |
         | [Sinhala](http://www.test.bbc.co.uk/sinhala) | Iskoola Pota BBC, SetDeco |
         | [Tamil](http://www.test.bbc.co.uk/tamil)     | Latha                     |
-        | [Urdu](http://www.test.bbc.co.uk/urdu)       | BBCNaseem                 |
+        | [Urdu](http://www.test.bbc.co.uk/urdu)       | BBCNassim                 |
 
 -   CPS Preview
 
