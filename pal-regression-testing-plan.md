@@ -175,13 +175,10 @@ Release on Test
 
     -   Check fonts render on WS sites
     -   Load site on Chrome browser
-    -   Inspect page
-    -   On Application tab, go to Local Storage
-    -   Click on <http://www.test.bbc.com/>
-    -   Click on bbc.font Key Value and delete it
-    -   Disable JS on browser and refresh page
-    -   Enable JS on browser and refresh page
-    -   Check font-family for bbc.font Key Value
+    -   Click 'inspect' on a headline
+    -   Select the 'Computed' tab
+    -   Scroll down to 'font-family'
+    -   Check font-family matches the value specified below
 
         | Site                                  | Font                      |
         | --------------------------------------|:-------------------------:|
