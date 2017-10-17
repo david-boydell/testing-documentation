@@ -180,18 +180,20 @@ Release on Test
     -   Scroll down to 'font-family'
     -   Check font-family matches the value specified below
 
-        | Site                                  | Font                      |
-        | --------------------------------------|:-------------------------:|
-        | [Arabic](http://www.test.bbc.co.uk/arabic)   | BBCNassim                 |
-        | [Bengali](http://www.test.bbc.co.uk/bengali) | Shonar Bangla             |
-        | [Burmese](http://www.test.bbc.co.uk/burmese) | Padauk                    |
-        | [Hindi](http://www.test.bbc.co.uk/hindi)     | mangal                    |
-        | [Nepali](http://www.test.bbc.co.uk/nepali)   | mangal                    |
-        | [Pashto](http://www.test.bbc.co.uk/pashto)   | BBCNassim                 |
-        | [Persian](http://www.test.bbc.co.uk/persian) | BBCNassim                 |
-        | [Sinhala](http://www.test.bbc.co.uk/sinhala) | Iskoola Pota BBC, SetDeco |
-        | [Tamil](http://www.test.bbc.co.uk/tamil)     | Latha                     |
-        | [Urdu](http://www.test.bbc.co.uk/urdu)       | BBCNassim                 |
+        | Site                                       | Font                      |
+        | -------------------------------------------|:-------------------------:|
+        | [Arabic](http://www.test.bbc.com/arabic)   | BBCNassim                 |
+        | [Bengali](http://www.test.bbc.com/bengali) | Shonar Bangla             |
+        | [Burmese](http://www.test.bbc.com/burmese) | Padauk                    |
+        | [Hindi](http://www.test.bbc.com/hindi)     | mangal                    |
+        | [Marathi](http://www.test.bbc.com/marathi) | Noto Sans Devanagari      |
+        | [Nepali](http://www.test.bbc.com/nepali)   | mangal                    |
+        | [Pashto](http://www.test.bbc.com/pashto)   | BBCNassim                 |
+        | [Persian](http://www.test.bbc.com/persian) | BBCNassim                 |
+        | [Punjabi](http://www.test.bbc.com/punjabi) | Noto Sans Gurmukhi        |
+        | [Sinhala](http://www.test.bbc.com/sinhala) | Iskoola Pota BBC, SetDeco |
+        | [Tamil](http://www.test.bbc.com/tamil)     | Latha                     |
+        | [Urdu](http://www.test.bbc.com/urdu)       | BBCNassim                 |
 
 -   CPS Preview
 
