@@ -75,10 +75,10 @@ Release on Test
 
 -   General Functionality
 
-    -   Check that the site is rendered without any issues - <http://www.test.bbc.co.uk/news>
-    -   Check that there are no 500 errors.This can be done by opening firebug>console tab - <http://www.test.bbc.co.uk/news>
-    -   Check if there are any JS errors on the page - <http://www.test.bbc.co.uk/news>
-    -   Check adverts are only displayed on the international page - <http://www.test.bbc.com/news>
+    -   Check that the site is rendered without any issues - <http://www.test.bbc.co.uk/news/uk>
+    -   Check that there are no 500 errors.This can be done by opening firebug>console tab - <http://www.test.bbc.co.uk/news/uk>
+    -   Check if there are any JS errors on the page - <http://www.test.bbc.co.uk/news/uk>
+    -   Check adverts are only displayed on the international page (using VPN tool)- <http://www.test.bbc.com/news/world/us_and_canada>
     -   Check various indexes work as expected mainly business index which has live event mostly and special reports,explainers,in pictures:
            <http://www.test.bbc.co.uk/news/business>
            <http://www.test.bbc.co.uk/news/special_reports>
@@ -86,7 +86,7 @@ Release on Test
            <http://www.test.bbc.co.uk/news/explainers>
     -   Check all blogs (QBR,the papers etc) are working as expected -  <http://www.test.bbc.co.uk/news/blogs/the_papers?_x_candy_override=https://api.test.bbc.co.uk>
     -   Check correspondent pages(Index and articles) are working as expected -  <http://www.test.bbc.co.uk/news/correspondents/rorycellanjones> & <http://www.test.bbc.co.uk/news/technology-35863859>
-    -   Check that weather works as expected - <http://www.test.bbc.co.uk/news>
+    -   Check that weather works as expected - <http://www.test.bbc.co.uk/news/england/merseyside>
     -   Check local indexes look ok - <http://www.test.bbc.co.uk/news/england/birmingham_and_black_country>
     -   Disable JS and check that the site is rendered without issues.
     -   Check share tools work as expected
@@ -125,11 +125,6 @@ Release on Test
     -   Test interactions search box
     -   Test interactions with search results page
 
--   Topic pages
-
-    -   <http://www.test.bbc.com/gahuza/topics/ba90754a-9033-4e9c-990b-d1139e5070a3>
-    -   <http://www.test.bbc.com/gahuza/topics/e68c5b82-50e8-47d8-953c-bf61a2de0a85>
-
 -   RSS Feeds
 
     -   On <http://www.test.bbc.com/kyrgyz>,
@@ -157,6 +152,9 @@ Release on Test
     -   <http://www.test.bbc.com/zhongwen/simp/popular/read>
     -   Click through to 'Most Popular' tab on device and navigate to storypage
     -   Tablet and 2nd column views and clickthrough
+
+-   Forms
+    -   <http://www.test.bbc.com/mundo/institucional-36400011>    
 
 -   Atlas
 
@@ -233,11 +231,11 @@ Release on Stage
 
 -   General Functionality
 
-    -   Check that the site is rendered without any issues - <http://www.stage.bbc.co.uk/news>
-    -   Check that there are no 500 errors.This can be done by opening firebug>console tab - <http://www.stage.bbc.co.uk/news>
-    -   Check if there are any JS errors on the page - <http://www.stage.bbc.co.uk/news>
-    -   Check adverts are only displayed on the international page - <http://www.stage.bbc.com/news>
-    -   Check that weather works as expected - <http://www.stage.bbc.co.uk/news>
+    -   Check that the site is rendered without any issues - <http://www.stage.bbc.co.uk/news/uk>
+    -   Check that there are no 500 errors.This can be done by opening firebug>console tab - <http://www.stage.bbc.co.uk/news/uk>
+    -   Check if there are any JS errors on the page - <http://www.stage.bbc.co.uk/news/uk>
+    -   Check adverts are only displayed on the international page (using VPN tool)- <http://www.stage.bbc.com/news/world/us_and_canada>
+    -   Check that weather works as expected - <http://www.stage.bbc.co.uk/news/england/merseyside>
     -   Check local indexes look ok - <http://www.stage.bbc.co.uk/news/england/birmingham_and_black_country>
     -   Disable JS and check that the site is rendered without issues.
     -   Check share tools work as expected.
@@ -252,9 +250,12 @@ Release on Stage
 -   RSS Feeds
     -   <http://feeds.stage.bbci.co.uk/persian/rss.xml>
 
+-   Forms
+    -   <http://www.stage.bbc.com/mundo/institucional-36400011>     
+
 -   Sanity Check Sites
 
-    -   <http://www.stage.bbc.co.uk/news>
+    -   <http://www.stage.bbc.co.uk/news/uk>
     -   <http://www.stage.bbc.com/arabic>
     -   <http://www.stage.bbc.com/russian>
     -   <http://www.stage.bbc.com/mundo>
@@ -287,10 +288,11 @@ Release on Live
 
 -   Sanity Check Sites
 
-    -   <http://www.bbc.co.uk/news>
+    -   <http://www.bbc.co.uk/news/uk>
     -   <http://www.bbc.com/arabic>
     -   <http://www.bbc.com/russian>
     -   <http://www.bbc.com/mundo>
+    -   <http://www.bbc.com/mundo/institucional-36400011> 
         -   Homepage
         -   Indexes and Assets
         -   Audio and Video Playback
