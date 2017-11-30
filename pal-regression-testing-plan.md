@@ -260,7 +260,7 @@ Release on Stage
     -   <http://www.stage.bbc.com/russian>
     -   <http://www.stage.bbc.com/mundo>
     -   Homepage
-    -   Indexes and Assets
+    -   Indexes
     -   Audio and Video Playback
     -   Forms
 
@@ -292,11 +292,11 @@ Release on Live
     -   <http://www.bbc.com/arabic>
     -   <http://www.bbc.com/russian>
     -   <http://www.bbc.com/mundo>
-    -   <http://www.bbc.com/mundo/institucional-36400011> 
         -   Homepage
-        -   Indexes and Assets
+        -   Indexes
         -   Audio and Video Playback
         -   Forms
+        -   <http://www.bbc.com/mundo/institucional-36400011> 
 
 -   Check CPS preview for MAPs not retuning 404s
 

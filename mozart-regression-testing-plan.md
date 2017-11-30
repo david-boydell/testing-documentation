@@ -52,11 +52,6 @@ Release on Test
     -   <http://www.test.bbc.com/gahuza/topics/e68c5b82-50e8-47d8-953c-bf61a2de0a85>
 
 
-#### Release PR Testing
-
--   **ACTION** : The PR(s) needing to be released should be discussed between the testers on #web_testers on Slack or via the developer in the appropriate channel and it should be agreed which ones require an additional check on the test environment based on risk, tester resource and time.
--   **VERIFY** : The PR(s) which require additional testing on test should be retested by the tester who originally tested them, unless they are unavailable in which case it will have been agreed between the testers as to who will cover what.
-
 Release on Live
 ---------------
 
@@ -66,15 +61,10 @@ Release on Live
 
 -   Run sanity checks on device and desktop browsers for playback on Video and Audio files
 
--   Sanity Check Sites
+-   Sanity Check Pages
 
-	- 	News Front Page
+	- 	[News Front Page](http://www.bbc.co.uk/news)
 
-    -   <http://www.bbc.co.uk/news>
-
-
-    -   Topic pages
-
-    -   <http://www.bbc.com/gahuza/topics/ba90754a-9033-4e9c-990b-d1139e5070a3>
-    -   <http://www.bbc.com/gahuza/topics/e68c5b82-50e8-47d8-953c-bf61a2de0a85>
+    -   [Topic page 1](http://www.bbc.com/gahuza/topics/ba90754a-9033-4e9c-990b-d1139e5070a3)
+    -   [Topic page 2](http://www.bbc.com/gahuza/topics/e68c5b82-50e8-47d8-953c-bf61a2de0a85)
 
