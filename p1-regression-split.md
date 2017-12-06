@@ -29,6 +29,7 @@ TEST
     -   AV Page
     -   Live Event Component
     -   Topic pages
+
 STAGE
 -----
 -   Automation
@@ -39,6 +40,7 @@ STAGE
     -   AV Page
 -   Functionality Set B:
     -   Sanity Check Sites
+
 LIVE
 -----
 -   Automation
