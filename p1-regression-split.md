@@ -13,7 +13,9 @@ WHICH BROWSERS SHOULD BE TESTED ON?
 Based on the stats regression testing will cover the most popular mobile and desktop browser:
 
 **Mobile for News:** Latest Safari (iOS)
+
 **Mobile for World Service:** Chrome (Android)
+
 **Desktop for News & World Service :** Chrome
 
 TEST
