@@ -183,7 +183,6 @@ Release on Test
         | [Arabic](http://www.test.bbc.com/arabic)   | BBCNassim                 |
         | [Bengali](http://www.test.bbc.com/bengali) | Shonar Bangla             |
         | [Burmese](http://www.test.bbc.com/burmese) | Padauk                    |
-        | [Hindi](http://www.test.bbc.com/hindi)     | mangal                    |
         | [Marathi](http://www.test.bbc.com/marathi) | Noto Sans Devanagari      |
         | [Nepali](http://www.test.bbc.com/nepali)   | mangal                    |
         | [Pashto](http://www.test.bbc.com/pashto)   | BBCNassim                 |
