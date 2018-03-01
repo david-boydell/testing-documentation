@@ -176,7 +176,7 @@ Release on Test
     -   Click 'inspect' on a headline
     -   Select the 'Computed' tab
     -   Scroll down to 'font-family'
-    -   Check font-family matches the value specified below
+    -   Check font-family matches the value specified below (note: 01/03/2018 embedded fonts have been turned off on the test environment. This was at the request of the WS team. It affects Nepali and you will see Arial listed as the font.)
 
         | Site                                       | Font                      |
         | -------------------------------------------|:-------------------------:|
